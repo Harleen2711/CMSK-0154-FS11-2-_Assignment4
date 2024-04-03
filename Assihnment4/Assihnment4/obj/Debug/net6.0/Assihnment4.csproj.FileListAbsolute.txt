@@ -1,0 +1,15 @@
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.csproj.AssemblyReference.cache
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.AssemblyInfoInputs.cache
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.AssemblyInfo.cs
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.csproj.CoreCompileInputs.cache
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\bin\Debug\net6.0\Assihnment4.exe
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\bin\Debug\net6.0\Assihnment4.deps.json
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\bin\Debug\net6.0\Assihnment4.runtimeconfig.json
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\bin\Debug\net6.0\Assihnment4.dll
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\bin\Debug\net6.0\ref\Assihnment4.dll
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\bin\Debug\net6.0\Assihnment4.pdb
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.dll
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\ref\Assihnment4.dll
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.pdb
+C:\Users\KAURH333\source\repos\Assihnment4\Assihnment4\obj\Debug\net6.0\Assihnment4.genruntimeconfig.cache
